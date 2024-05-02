@@ -1,0 +1,13 @@
+train: /scratch/edison.estramil/tscf/All.v2.yolov9/train/images
+val: /scratch/edison.estramil/tscf/All.v2.yolov9/valid/images
+test: /scratch/edison.estramil/tscf/All.v2.yolov9/test/images
+
+nc: 3
+names: ['Lolium', 'cyperus', 'ipomoea']
+
+roboflow:
+  workspace: steven-qah0z
+  project: all-wzinz
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/steven-qah0z/all-wzinz/dataset/2
