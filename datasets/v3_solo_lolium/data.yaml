@@ -1,0 +1,13 @@
+train: /scratch/edison.estramil/tscf/solo_lolium/train/images 
+val: /scratch/edison.estramil/tscf/solo_lolium/valid/images
+test: /scratch/edison.estramil/tscf/All.v2.yolov9/test/images
+
+nc: 1
+names: ['Lolium']
+
+roboflow:
+  workspace: steven-qah0z
+  project: all-wzinz
+  version: 4
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/steven-qah0z/all-wzinz/dataset/4
