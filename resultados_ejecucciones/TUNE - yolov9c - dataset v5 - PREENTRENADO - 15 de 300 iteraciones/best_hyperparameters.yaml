@@ -1,0 +1,30 @@
+# 15/300 iterations complete ✅ (8969.78s)
+# Results saved to drive/MyDrive/fine-tuning/tune
+# Best fitness=0.01773 observed at iteration 13
+# Best fitness metrics are {'metrics/precision(B)': 0.12654, 'metrics/recall(B)': 0.0884, 'metrics/mAP50(B)': 0.04475, 'metrics/mAP50-95(B)': 0.01473, 'val/box_loss': 3.36142, 'val/cls_loss': 3.30073, 'val/dfl_loss': 2.81011, 'fitness': 0.01773}
+# Best fitness model is drive/MyDrive/fine-tuning/train13
+# Best fitness hyperparameters are printed below.
+
+lr0: 0.01165
+lrf: 0.00822
+momentum: 0.91825
+weight_decay: 0.00048
+warmup_epochs: 2.83536
+warmup_momentum: 0.78394
+box: 8.94441
+cls: 0.51137
+dfl: 1.38654
+hsv_h: 0.01436
+hsv_s: 0.54351
+hsv_v: 0.43243
+degrees: 0.0
+translate: 0.08522
+scale: 0.48337
+shear: 0.0
+perspective: 0.0
+flipud: 0.0
+fliplr: 0.49507
+bgr: 0.0
+mosaic: 1.0
+mixup: 0.0
+copy_paste: 0.0
