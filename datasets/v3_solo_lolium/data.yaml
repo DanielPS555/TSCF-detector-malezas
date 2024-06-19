@@ -1,6 +1,7 @@
-train: /scratch/edison.estramil/tscf/solo_lolium/train/images 
-val: /scratch/edison.estramil/tscf/solo_lolium/valid/images
-test: /scratch/edison.estramil/tscf/All.v2.yolov9/test/images
+path: /home/daniel/Documentos/Taller_TSCF_Weed/TSCF/TSCF-detector-malezas/datasets/v3_solo_lolium
+train: train/images
+val: valid/images
+test: test/images
 
 nc: 1
 names: ['Lolium']

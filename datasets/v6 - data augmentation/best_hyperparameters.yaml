@@ -1,0 +1,30 @@
+# 20/20 iterations complete ✅ (12695.33s)
+# Results saved to /content/drive/MyDrive/fine-tuning2/tune
+# Best fitness=0.07003 observed at iteration 75
+# Best fitness metrics are None
+# Best fitness model is None
+# Best fitness hyperparameters are printed below.
+
+lr0: 0.00868
+lrf: 0.01661
+momentum: 0.85978
+weight_decay: 0.00074
+warmup_epochs: 4.85808
+warmup_momentum: 0.9448
+box: 5.82113
+cls: 0.49328
+dfl: 1.1396
+hsv_h: 0.01256
+hsv_s: 0.51594
+hsv_v: 0.17726
+degrees: 0.0
+translate: 0.12564
+scale: 0.46438
+shear: 0.0
+perspective: 0.0
+flipud: 0.0
+fliplr: 0.76665
+bgr: 0.0
+mosaic: 0.61458
+mixup: 0.0
+copy_paste: 0.0

@@ -1,0 +1,14 @@
+path: /home/daniel/Documentos/Taller_TSCF_Weed/TSCF/TSCF-detector-malezas/datasets/v6 - data augmentation
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 3
+names: ['Lolium', 'cyperus', 'ipomoea']
+
+roboflow:
+  workspace: steven-qah0z
+  project: all-wzinz
+  version: 13
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/steven-qah0z/all-wzinz/dataset/13

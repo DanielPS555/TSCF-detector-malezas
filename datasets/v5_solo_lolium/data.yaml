@@ -1,6 +1,7 @@
-train: ../train/images
-val: ../valid/images
-test: ../test/images
+path: /home/daniel/Documentos/Taller_TSCF_Weed/TSCF/TSCF-detector-malezas/datasets/v5_solo_lolium
+train: train/images
+val: valid/images
+test: test/images
 
 nc: 1
 names: ['Lolium']
